@@ -1,6 +1,6 @@
 <div align="center">
 	<p>
-		English | <a href="./README.md">简体中文</a>
+		English | <a href="./README.CN.md">简体中文</a>
 	</p>
   <br>
   <a href="https://www.baidu.com"><img src="static/banner.png" height="160"></a>
