@@ -14,7 +14,7 @@
   </p>
   <p>
 
-[![](https://img.shields.io/badge/build-passing-brightgreen.svg?logo=Drone)](https://www.baidu.com) [![](https://img.shields.io/badge/releases-v0.0.0-brightgreen.svg?logo=GitHub)](https://github.com/tony709394/postchildren/releases) [![](https://img.shields.io/badge/chat-wechat-blueviolet.svg?logo=WeChat)](static/wechat-qr.png) [![](https://img.shields.io/badge/email-QQ-blueviolet.svg?logo=Tencent-QQ)](mailto:473613943@qq.com) [![](https://img.shields.io/badge/website-up-informational.svg)](https://www.baidu.com)
+[![](https://img.shields.io/badge/build-passing-brightgreen.svg?logo=Drone)](https://www.baidu.com) [![](https://img.shields.io/badge/releases-v0.0.0-brightgreen.svg?logo=GitHub)](https://github.com/tony709394/postchildren/releases) [![](https://img.shields.io/badge/chat-wechat-blueviolet.svg?logo=WeChat)](static/wechat-qr.png) [![](https://img.shields.io/badge/email-QQ-blueviolet.svg?logo=Tencent-QQ)](mailto:473613943@qq.com) [![](https://img.shields.io/badge/blog-jianshu-ff69b4.svg)](https://www.jianshu.com/u/ed6063b842fd) [![](https://img.shields.io/badge/website-up-informational.svg)](https://www.baidu.com)
 
   </p>
 </div>
