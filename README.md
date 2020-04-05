@@ -5,10 +5,10 @@ English | [简体中文](./README.CN.md)
   <br>
   <br>
   <p>
-    <b>A E2E test visualization tool</b>
+    <b>一个可视化、端对端测试工具</b>
   </p>
   <p>
-     <i>Perform end-to-end testing of your code with visual manipulation</i>
+     <i>通过可视化操作，为你的代码进行端对端测试</i>
   </p>
   <p>
 
