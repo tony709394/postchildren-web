@@ -14,7 +14,7 @@
   </p>
   <p>
 
-[![](https://img.shields.io/badge/releases-v0.0.0-brightgreen.svg?logo=Drone)](https://www.baidu.com) [![](https://img.shields.io/badge/releases-v0.0.0-brightgreen.svg?logo=GitHub)](https://github.com/tony709394/postchildren/releases) [![](https://img.shields.io/badge/wechat-v0.0.0-blueviolet.svg?logo=WeChat)](https://www.baidu.com) [![](https://img.shields.io/badge/QQ-v0.0.0-blueviolet.svg?logo=Tencent-QQ)](https://www.baidu.com) [![](https://img.shields.io/badge/website-v0.0.0-informational.svg)](https://www.baidu.com)
+[![](https://img.shields.io/badge/build-passing-brightgreen.svg?logo=Drone)](https://www.baidu.com) [![](https://img.shields.io/badge/releases-v0.0.0-brightgreen.svg?logo=GitHub)](https://github.com/tony709394/postchildren/releases) [![](https://img.shields.io/badge/chat-wechat-blueviolet.svg?logo=WeChat)](https://www.baidu.com) [![](https://img.shields.io/badge/email-QQ-blueviolet.svg?logo=Tencent-QQ)](https://www.baidu.com) [![](https://img.shields.io/badge/website-up-informational.svg)](https://www.baidu.com)
 
   </p>
 </div>
