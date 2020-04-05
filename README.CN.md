@@ -1,4 +1,4 @@
-English | [简体中文](./README.CN.md)
+[English](./README.md) | 简体中文
 
 <div align="center">
   <a href="https://www.baidu.com"><img src="static/banner.png" height="160"></a>
