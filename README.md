@@ -1,14 +1,16 @@
-English | [简体中文](./README.CN.md)
-
 <div align="center">
+	<p>
+		English | [简体中文](./README.CN.md)
+	</p>
+  <br>
   <a href="https://www.baidu.com"><img src="static/banner.png" height="160"></a>
   <br>
   <br>
   <p>
-    <b>一个可视化、端对端测试工具</b>
+    <b>A E2E test visualization tool</b>
   </p>
   <p>
-     <i>通过可视化操作，为你的代码进行端对端测试</i>
+     <i>Perform end-to-end testing of your code with visual manipulation</i>
   </p>
   <p>
 
