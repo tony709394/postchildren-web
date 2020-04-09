@@ -1,0 +1,8 @@
+{
+  "name": "postchildren-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tony709394/postchildren.git",
+  "author": "ldl <1556540295@qq.com>",
+  "license": "MIT"
+}
